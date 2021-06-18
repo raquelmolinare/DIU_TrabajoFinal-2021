@@ -18,17 +18,17 @@
 
 ## 1.2 UX Design
 
-### a Feedback Capture Grid
+#### 1.2.a Feedback Capture Grid
 
-### b Tasks analysis
+#### 1.2.b Tasks analysis
 
 ## 1.3 Diseño visual del producto actual
 
-### a Logotipo
+#### 1.3.a Logotipo
 
-### b Paleta de colores
+#### 1.3.b Paleta de colores
 
-### c Tipografía
+#### 1.3.c Tipografía
 
 ## 1.4 Evaluación de Accesibilidad 
 
@@ -40,18 +40,18 @@
 
 ## 2.1 Estructura
 
-### a SiteMap
+#### 2.1.a SiteMap
 
-### b Labelling
+#### 2.1.b Labelling
 
-### c Prototipo Lo-FI Wireframe
+#### 2.1.c Prototipo Lo-FI Wireframe
 
 ## 2.2 Mi UX-Case Study (diseño)
 
-### a Logotipo
+#### 2.2.a Logotipo
 
-### b Paleta de colores
+#### 2.2.b Paleta de colores
 
-### c Tipografía
+#### 2.2.c Tipografía
 
-### d Mockup
+#### 2.2.d Mockup
