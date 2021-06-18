@@ -10,6 +10,32 @@
 
 #### 1.1.a Análisis Competencia
 
+Después de probar Yuzin se han buscado otras páginas con las mismas funcionalidades o similares y se ha decidido hacer una comparación entre ellas para encontrar puntos débiles y fuertes. 
+Ya que Yuzin muestra eventos culturales de Granada, Sevilla y Málaga se va ha realizar la comparación entre webs de divulgación de eventos culturales de estas ciudades:
+- Granada: [Granadaescultura](https://granadaescultura.com/)
+- Sevilla: [onSevilla](https://onsevilla.com/) 
+- Málaga: [GEN Málaga](https://www.genmalaga.com/)
+También se va a incluir en la comparación a [Eventbrite](https://www.eventbrite.es/), como una página más genérica en cuanto a tipo de eventos y lugar pero que destaca por su popularidad a día de hoy.
+
+
+|         | [Yuzin](https://yuzin.com/) | [Granadaescultura](https://granadaescultura.com/) | [onSevilla](https://onsevilla.com/) | [GEN Málaga](https://www.genmalaga.com/) |[Eventbrite](https://www.eventbrite.es/) |
+|------|------|------|-------|-------|
+|Compartir viaje  | ✅ | ✅ | ✅ | ❌ | ❌ |
+|Alquiler vehículo| ✅ | ❌ | ❌ | ✅ | ✅ |
+|Seguro de viaje  | ✅ | ❌ | ❌ | ✅ | ✅ |
+|Pago efectivo    | ❌ | ❌ | ✅ | ❌ | ❌ |
+|Comisiones       | ✅ | ✅ | ❌ | ✅ | ✅ |
+|Disponible Web       | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible Android          | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible iOS              | ✅ | ✅ | ✅ | ✅ | ❌ |
+|Uso gratuito     | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Exige registro   | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Más de 3 idiomas | ✅ | ✅ | ❌ | ✅ | ❌ |
+|Informaación RRSS| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Información de contacto| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Chat online      | ✅ | ✅ | ✅ | ✅ | ❌ |
+|Reembolso por cancelación| ❌ | ❌ | ❌ | ✅ | ✅ |
+
 #### 1.1.b Personas
 
 #### 1.1.c User Journey Map
