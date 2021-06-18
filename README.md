@@ -21,22 +21,24 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 
 |         | [Yuzin](https://yuzin.com/) | [Granadaescultura](https://granadaescultura.com/) | [onSevilla](https://onsevilla.com/) | [GEN Málaga](https://www.genmalaga.com/) |[Eventbrite](https://www.eventbrite.es/) |
 |------|------|------|-------|-------|------|
-|Contenido responsive  | ✅ | ✅ | ✅ | ❌ | ❌ |
-|Multidiomas| ✅ | ❌ | ❌ | ✅ | ✅ |
-|Buscador  | ✅ | ❌ | ❌ | ✅ | ✅ |
-|Formulario de contacto | ❌ | ❌ | ✅ | ❌ | ❌ |
-|Informaación RRSS | ✅ | ✅ | ❌ | ✅ | ✅ |
-|Chat online| ✅ | ✅ | ✅ | ✅ | ✅ |
-|Mapa de localización del evento| ✅ | ✅ | ✅ | ✅ | ✅ |
-|Ofrece asociarse | ✅ | ✅ | ✅ | ✅ | ✅ |
-|Muestra tarifas (en caso de que se cumpla la condición anterior)| ✅ | ✅ | ✅ | ✅ | ❌ |
-|Distribuido por fechas (1)| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Contenido responsive  |  ❌ | ✅ |  ✅ | ✅ |  ✅ |
+|Multidiomas| ❌ | ❌ | ❌ | ❌ | ✅ |
+|Buscador  | ✅ | ✅  | ❌ | ✅ | ✅ |
+|Mapa del sitio web  | ❌ | ✅  | ❌ | ❌| ✅ |
+|Formulario de contacto |  ✅ | ✅ | ✅ |  ✅ | ❌ |
+|Informaación RRSS | ✅ | ❌ | ✅ | ✅ | ✅ |
+|Chat online| ❌ | ❌ | ❌ | ❌ | ❌ |
+|Mapa de localización del evento| ❌ | ✅ | ❌ | ✅ | ✅ |
+|Distribuido por fechas (1)| ❌ | ✅ | ✅ | ✅ | ✅ |
 |Filtrar por categoría de eventos| ✅ | ✅ | ✅ | ✅ | ✅ |
-|Filtrar por zonas dentro de una ciudad| ✅ | ✅ | ❌ | ✅ | ❌ |
+|Filtrar por zonas dentro de una ciudad| ❌ | ❌ | ❌ | ✅ | ✅ |
 |Crear eventos (promotor cultural) | ✅ | ✅ | ✅ | ✅ | ✅ |
-
+|Ofrece cuenta premium o de asociado (promotores) | ❌ | ❌ | ❌ | ❌ | ✅ |
+|Ofrece cuenta premium o de asociado (asistentes) | ✅ | ❌ | ❌ | ❌ | ❌ |
+|Muestra tarifas (2)| ✅ | ❌ | ❌ | ❌ | ✅ |
 
 (1) Esta característica se refiere a que se muestran los eventos según fechas por ejemplo: eventos de hoy, de esta semana, de este mes, etc en un mismo apartado y bien definido.
+(2) En caso de que se ofrezca asociarse o una cuenta premium
 
 #### 1.1.b Personas
 
