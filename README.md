@@ -28,17 +28,22 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 |Formulario de contacto |  ✅ | ✅ | ✅ |  ✅ | ❌ |
 |Informaación RRSS | ✅ | ❌ | ✅ | ✅ | ✅ |
 |Chat online| ❌ | ❌ | ❌ | ❌ | ❌ |
+|Información de los eventos| ✅  | ✅ | ✅  | ✅ | ✅ |
 |Mapa de localización del evento| ❌ | ✅ | ❌ | ✅ | ✅ |
 |Distribuido por fechas (1)| ❌ | ✅ | ✅ | ✅ | ✅ |
 |Filtrar por categoría de eventos| ✅ | ✅ | ✅ | ✅ | ✅ |
 |Filtrar por zonas dentro de una ciudad| ❌ | ❌ | ❌ | ✅ | ✅ |
 |Crear eventos (promotor cultural) | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Compra directa de entradas | ❌ | ❌ | ❌ | ❌ | ✅ |
 |Ofrece cuenta premium o de asociado (promotores) | ❌ | ❌ | ❌ | ❌ | ✅ |
 |Ofrece cuenta premium o de asociado (asistentes) | ✅ | ❌ | ❌ | ❌ | ❌ |
 |Muestra tarifas (2)| ✅ | ❌ | ❌ | ❌ | ✅ |
 
 (1) Esta característica se refiere a que se muestran los eventos según fechas por ejemplo: eventos de hoy, de esta semana, de este mes, etc en un mismo apartado y bien definido.
+
 (2) En caso de que se ofrezca asociarse o una cuenta premium
+
+*Conclusión*: Como puntos fuertes Yuzin ofrece las funcionalidades más destacadas de este tipo de webs: Consulta o creación de eventos, formularios de contacto, buscador y filtros y además incluye la posibilidad de asociarse y toda la información relevante a lo mismo. Como puntos débiles no tiene un diseño de contenido responsive y los eventos no están distribuidos por fechas (Semana o mes).
 
 #### 1.1.b Personas
 
