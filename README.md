@@ -8,7 +8,7 @@
 
 ## 1.1 UX Desk Research & Analysis 
 
-### a Análisis Competencia
+#### a Análisis Competencia
 
 ### b Personas
 
