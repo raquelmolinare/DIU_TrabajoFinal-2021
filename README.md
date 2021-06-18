@@ -19,7 +19,7 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 
 
 |         | [Yuzin](https://yuzin.com/) | [Granadaescultura](https://granadaescultura.com/) | [onSevilla](https://onsevilla.com/) | [GEN Málaga](https://www.genmalaga.com/) |[Eventbrite](https://www.eventbrite.es/) |
-|------|------|------|-------|-------|
+|------|------|------|-------|-------|------|
 |Compartir viaje  | ✅ | ✅ | ✅ | ❌ | ❌ |
 |Alquiler vehículo| ✅ | ❌ | ❌ | ✅ | ✅ |
 |Seguro de viaje  | ✅ | ❌ | ❌ | ✅ | ✅ |
