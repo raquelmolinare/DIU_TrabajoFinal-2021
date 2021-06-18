@@ -8,13 +8,13 @@
 
 ## 1.1 UX Desk Research & Analysis 
 
-#### a Análisis Competencia
+#### 1.1.a Análisis Competencia
 
-### b Personas
+#### 1.1.b Personas
 
-### c User Journey Map
+#### 1.1.c User Journey Map
 
-### d Usability Review
+#### 1.1.d Usability Review
 
 ## 1.2 UX Design
 
