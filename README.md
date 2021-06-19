@@ -49,6 +49,8 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 
 #### 1.1.b Personas
 
+Otro modo de conocer puntos fuertes y débiles de la web es a partir de experiencias de usuario con la misma. Para ello se han creado dos usuarios ficticios, Ángel y Carmen, dos personas sin experiencia en este ámbito y de dos generaciones diferentes, ya que la búsqueda de eventos no es algo propio de ninguna generación en específico se han decidido estos usuarios para tener una vista general de las impresiones a primera vista de cada una de las dos.
+
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/Angel.png" width="100%">
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/Carmen.png" width="100%">
