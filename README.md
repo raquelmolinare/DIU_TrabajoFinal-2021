@@ -108,10 +108,15 @@ Para finalizar con el análisis del diseño actual se realiza una evaluación de
 
 ### HEURISTICA
 
-##### 1.¿Tiene información de accesibilidad? 
+| ##### 1.¿Tiene información de accesibilidad? 
+| ##### 2- ¿Tiene errores las pautas de WCAG? 
+| ##### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS) 
+| ##### 4-Comportamiento con ampliación de tamaño de letra |
+|------------------||------------------||------------------||------------------|
+
 No posee información de accesibilidad.
 
-##### 2- ¿Tiene errores las pautas de WCAG?
+
 Mediante la herramienta online *WAVE* se obtienen lo siguiente:
 
 | <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="60%"/> 
@@ -124,10 +129,8 @@ Los 5 errores se deben a:
 
 Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
 
-##### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS)
 Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.
 
-##### 4-Comportamiento con ampliación de tamaño de letra:
 Si se amplía la letra se desestructura la pantalla de inicio.
 
 #### SIMULACION ACCESIBILIDAD
