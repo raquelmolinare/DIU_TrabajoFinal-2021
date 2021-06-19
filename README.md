@@ -115,8 +115,7 @@ Para finalizar con el análisis del diseño actual se realiza una evaluación de
 |------|
 |Mediante la herramienta online *WAVE* se obtienen lo siguiente:
 
-| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="60%"/> 
-|------------------|
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="60%"/>
 
 Los 5 errores se deben a:
 - 3 ausencias de texto alternativo,
@@ -124,14 +123,14 @@ Los 5 errores se deben a:
 - 1 botón vacío.
 
 Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
+
 |
 |3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS)  | 
 |------|
-|Multidiomas|
+|Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.|
 |4-Comportamiento con ampliación de tamaño de letra  |
 |------|
-|Multidiomas|
-|Chat online| 
+|Si se amplía la letra se desestructura la pantalla de inicio.|
 
 | ##### 1.¿Tiene información de accesibilidad? | ##### 2- ¿Tiene errores las pautas de WCAG? | ##### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS) | ##### 4-Comportamiento con ampliación de tamaño de letra |
 |------------------||------------------||------------------||------------------|
@@ -140,9 +139,9 @@ Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
 
 
 
-Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.
 
-Si se amplía la letra se desestructura la pantalla de inicio.
+
+
 
 #### SIMULACION ACCESIBILIDAD
 
