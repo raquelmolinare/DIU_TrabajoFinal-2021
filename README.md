@@ -111,6 +111,8 @@ Para finalizar con el análisis del diseño actual se realiza una evaluación de
 | 1.¿Tiene información de accesibilidad?  | 
 |------|
 |No posee información de accesibilidad.|
+
+
 |2- ¿Tiene errores las pautas de WCAG?  | 
 |------|
 |Mediante la herramienta online *WAVE* se obtienen lo siguiente:
@@ -128,6 +130,8 @@ Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
 |3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS)  | 
 |------|
 |Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.|
+
+
 |4-Comportamiento con ampliación de tamaño de letra  |
 |------|
 |Si se amplía la letra se desestructura la pantalla de inicio.|
