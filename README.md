@@ -49,7 +49,15 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 
 #### 1.1.b Personas
 
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/Angel.png" width="100%">
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/Carmen.png" width="100%">
+
 #### 1.1.c User Journey Map
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/AngelJourney.png" width="100%">
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Personas/CarmenJourney.png" width="100%">
 
 #### 1.1.d Usability Review
 
