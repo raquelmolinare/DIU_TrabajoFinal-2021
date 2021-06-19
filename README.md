@@ -75,7 +75,7 @@ La web no tiene una página de inicio que permita conocer la intención de Yuzin
 
 #### 1.2.a Feedback Capture Grid
 
-A partir del análisis anterior se sintetizan las conclusiones e **insights** a partir de la siguiente malla receptira de información:
+A partir del análisis anterior se sintetizan las conclusiones e **insights** a partir de la siguiente malla receptora de información:
 
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/FeedbackCaptureGrid.png" width="100%">
