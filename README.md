@@ -71,7 +71,7 @@ La puntuación obtenida es de 58/100: Moderate.
 
 La web no tiene una página de inicio que permita conocer la intención de Yuzin lo cual crea una primera impresión confusa. La posibilidad de obtener las actividades en la revista digital es una funcionalidad que caracteriza a la web pero que queda oculta por el resto de funcionalidades y servicios. Los eventos no están organizados con ningún criterio específico, no se distingue cuando acaban los eventos de un mes y empiezan los de otro mes, no hay idiomas alternativos y en algunas pantallas hay dos formularios de filtrado diferentes y no queda claro cuál usar. El diseño no es responsive, las imágenes no se adpatan a los contenedores de las mismas, en algunos casos el contraste de colores dificulta un poco la visión y no hay ninguna guía ni instrucciones para seguir la web.
 
-## 1.2 UX Design
+## 1.2 Insights
 
 #### 1.2.a Feedback Capture Grid
 
