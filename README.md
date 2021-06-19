@@ -145,7 +145,7 @@ Contestando las preguntas de la hipótesis al rediseño que se realizó en 2019/
 
 Considero que el rediseño era importante realizarlo para actualizar la interfaz y cambiar de un diseño más clásico a uno más actual.
 
-####¿Se ha aplicado bien el rediseño para mejorar la experiencia de usuario ?¿Mejorarías algo?
+#### ¿Se ha aplicado bien el rediseño para mejorar la experiencia de usuario ?¿Mejorarías algo?
 
 Tras el estudio realizado en esta parte queda clara que la experiencia de usuario no es del todo positiva debido a las pequeñas inconsistencias de la página mencionadas anteriormente, como es el hecho de no mostrar en la página inicial la intención de la web, cosa que sí hacía la web antigua en la que quedaba claro que se trataba de una agenda cultural. Además está el punto negativo de que el diseño no sea responsive ya que limita mucho la experiencia de usuario.
 
