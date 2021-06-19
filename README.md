@@ -82,9 +82,18 @@ A partir del análisis anterior se sintetizan las conclusiones e **insights** a 
 
 ## 1.3 Diseño visual del producto actual
 
+En este apartado se va recoger del diseño actual de la web de Yuzin: logotipo, paleta de colores y tipografía actual.
+
 #### 1.3.a Logotipo
 
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V1-positivo-color.png" width="50%"/> | <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V4-negativo-color-300x293.png" width="50%"/>| 
+|------------------|---------------------|
+
 #### 1.3.b Paleta de colores
+
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/colorscheme.png" width="100%"/> 
+|------------------|
+
 
 #### 1.3.c Tipografía
 
