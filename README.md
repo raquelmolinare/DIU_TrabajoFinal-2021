@@ -63,6 +63,13 @@ Otro modo de conocer puntos fuertes y débiles de la web es a partir de experien
 
 #### 1.1.d Usability Review
 
+Se ha realizado un informe de usabilidad con el objetivo de concluir el análisis de uso y experiencia de usuario de la web. Para ello se ha hecho uso de [este documento](https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Usability-review.pdf).
+
+La puntuación obtenida es de 58/100: Moderate.
+
+*Conclusión*:
+La web no tiene una página de inicio que permita conocer la intención de Yuzin, la posibilidad de obtener las actividades en la revista digital es una funcionalidad que caracteriza a la web pero que queda oculta por el resto de funcionalidades y servicios. Los eventos no están organizados con ningún criterio específico, no se distingue cuando acaban los eventos de un mes y empiezan los de otro mes. El diseño no es responsive, las imágenes no se adpatan a los contenedores de las mismas y no hay idiomas alternativos, en algunas pantallas hay dos formularios de filtrado diferentes y no queda claro cuál usar. En algunos casos el contraste de colores dificulta un poco la visión y no hay ninguna guía ni instrucciones para seguir la web.
+
 ## 1.2 UX Design
 
 #### 1.2.a Feedback Capture Grid
