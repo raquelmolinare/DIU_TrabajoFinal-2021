@@ -202,11 +202,17 @@ Se mantiene el mismo logotipo, se añade una versión en modo claro para las oca
 
 #### 2.2.b Paleta de colores
 
-Para la paleta de colores se mantienen los colores originales pero se cambian los tonos, el azul pasa a ser un azul más fuerte y se añade un tono de naranja más oscuro con el objetivo de crear una sensación de modernidad y mejorar el contraste. Se mantienen los colores ya que el azul aporta tranquilidad y el naranja energía por lo que mantienen la esencia de la página web.
+Para la paleta de colores se mantienen los colores originales pero se cambian los tonos, el azul pasa a ser un azul más fuerte y se añade un tono de naranja más oscuro con el objetivo de crear una sensación de modernidad y mejorar el contraste. Se mantienen los colores ya que el azul aporta tranquilidad y el naranja energía por lo que mantienen la esencia de la página web y ayudan a mejorar la experiencia de usuario.
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/colorscheme.png" width="70%"/>
 
 
 #### 2.2.c Tipografía
 
+Se mantiene la tipografía actual:
+
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/tipografia.png" width="60%"/> 
+|------------------|
+
 #### 2.2.d Mockup
+El (re)diseño final sería el siguiente, en el que se mantiene la esencia de la página web pero se organiza mucho mejor su contenido y mejora la experiencia de usuario.
