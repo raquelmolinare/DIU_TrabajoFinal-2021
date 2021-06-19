@@ -167,7 +167,7 @@ En este paso se va a llevar a cabo el rediseño de la actual página web de Yuzi
 
 ## 2.1 Estructura
 
-La estructura de la página web seguirá el siguiente flujo:
+La estructura de la página web seguirá el flujo que se representa en el *Sitemap* para mejorar la experiencia de usuario, de manera que la navegabilidad sea más fluida y organizada en secciones perfectamente definidas.
 
 #### 2.1.a SiteMap
 
