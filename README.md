@@ -116,14 +116,14 @@ No posee información de accesibilidad.
 
 Mediante la herramienta online *WAVE* se obtienen lo siguiente:
 
-<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="60%"/>
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="20%"/>
 
-Los 5 errores se deben a:
-- 3 ausencias de texto alternativo,
-- 1 etiqueta ausente.
-- 1 botón vacío.
+- Los 5 errores se deben a:
+  - 3 ausencias de texto alternativo,
+  - 1 etiqueta ausente.
+  - 1 botón vacío.
 
-Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
+- Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
 
 #### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS) 
 Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.
