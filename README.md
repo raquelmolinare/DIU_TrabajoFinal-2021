@@ -197,6 +197,9 @@ La estructura de la página web seguirá el siguiente flujo:
 #### 2.2.a Logotipo
 Se mantiene el mismo logotipo, se añade una versión en modo claro para las ocasiones en las que el fondo sea oscuro:
 
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V1-positivo-color.png" width="30%"/>| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/logoblancoN%C3%A7.png" width="30%"/>|  | <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V4-negativo-color-300x293.png" width="200%"/>| 
+|------------------|---------------------|---------------------|
+
 #### 2.2.b Paleta de colores
 
 #### 2.2.c Tipografía
