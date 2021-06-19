@@ -86,7 +86,7 @@ En este apartado se recoge información del diseño actual de la web de Yuzin: l
 
 #### 1.3.a Logotipo
 
-| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V1-positivo-color.png" width="30%"/> | <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V4-negativo-color-300x293.png" width="70%"/>| 
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V1-positivo-color.png" width="20%"/> | <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/YUZIN-RGB-V4-negativo-color-300x293.png" width="100%"/>| 
 |------------------|---------------------|
 
 #### 1.3.b Paleta de colores
@@ -96,6 +96,11 @@ En este apartado se recoge información del diseño actual de la web de Yuzin: l
 
 
 #### 1.3.c Tipografía
+
+Su fuente actual es Verdana:
+
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Dise%C3%B1o%20actual/tipografia.png" width="100%"/> 
+|------------------|
 
 ## 1.4 Evaluación de Accesibilidad 
 
