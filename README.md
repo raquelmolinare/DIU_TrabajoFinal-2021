@@ -108,6 +108,14 @@ Para finalizar con el análisis del diseño actual se realiza una evaluación de
 
 ### HEURISTICA
 
+| 1.¿Tiene información de accesibilidad?  | 
+|------|
+|Contenido responsive  | 
+|Multidiomas|
+|Buscador  | 
+|Mapa del sitio web  |
+|Chat online| 
+
 | ##### 1.¿Tiene información de accesibilidad? | ##### 2- ¿Tiene errores las pautas de WCAG? | ##### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS) | ##### 4-Comportamiento con ampliación de tamaño de letra |
 |------------------||------------------||------------------||------------------|
 
