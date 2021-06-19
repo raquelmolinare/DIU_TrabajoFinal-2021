@@ -139,6 +139,27 @@ Mediante la herramienta  Web Disability Simulator  se concluye que la web tiene 
 
 ## 1.5 Conclusión
 
+
+Contestando las preguntas de la hipótesis al rediseño que se realizó en 2019/2020:
+
+- ¿ Consideras que es adecuado? 
+
+Considero que el rediseño era importante realizarlo para actualizar la interfaz y cambiar de un diseño más clásico a uno más actual.
+
+- ¿Se ha aplicado bien el rediseño para mejorar la experiencia de usuario ?¿Mejorarías algo?
+
+Tras el estudio realizado en esta parte queda clara que la experiencia de usuario no es del todo positiva debido a las pequeñas inconsistencias de la página mencionadas anteriormente, como es el hecho de no mostrar en la página inicial la intención de la web, cosa que sí hacía la web antigua en la que quedaba claro que se trataba de una agenda cultural. Además está el punto negativo de que el diseño no sea responsive ya que limita mucho la experiencia de usuario.
+
+Mejoraría la distribución lógica de la web, teniendo 2 funcionalidades básicas:
+Agenda cultural: para promocionar eventos o espacios culturales.
+Club cultural: como comunidad cultural para compartir opiniones o conocimientos culturales.
+
+Centraría el diseño en estas dos funcionalidades de manera que en la página inicial se incluya el propósito de la web y estos dos servicios diferenciados, por un lado un apartado de eventos populares y por otro lado opiniones populares.
+
+Además en la sección de eventos mejoraría la organización de los mismos diferenciando bien el orden cronológico entre estos y en el caso de un evento concreto mostraría una galería de fotos y un pequeño mapa con su localización exacta.
+
+En el apartado de club cultural añadiría filtros sobre los distintos temas de los que se discuten y una búsqueda sobre los mismos.
+
 ----- 
 
 # PASO 2. Rediseño
