@@ -11,6 +11,7 @@
 #### 1.1.a Análisis Competencia
 
 Después de probar Yuzin se han buscado otras páginas con las mismas funcionalidades o similares y se ha decidido hacer una comparación entre ellas para encontrar puntos débiles y fuertes en cuanto a diseño y funciones clave. 
+
 Ya que Yuzin muestra eventos culturales de Granada, Sevilla y Málaga se va ha realizar la comparación entre webs de divulgación de eventos culturales de estas ciudades:
 - Granada: [Granadaescultura](https://granadaescultura.com/)
 - Sevilla: [onSevilla](https://onsevilla.com/) 
@@ -38,12 +39,13 @@ También se va a incluir en la comparación a [Eventbrite](https://www.eventbrit
 |Ofrece cuenta premium o de asociado (promotores) | ❌ | ❌ | ❌ | ❌ | ✅ |
 |Ofrece cuenta premium o de asociado (asistentes) | ✅ | ❌ | ❌ | ❌ | ❌ |
 |Muestra tarifas (2)| ✅ | ❌ | ❌ | ❌ | ✅ |
+|Ofrece un formato revista digital | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 (1) Esta característica se refiere a que se muestran los eventos según fechas por ejemplo: eventos de hoy, de esta semana, de este mes, etc en un mismo apartado y bien definido.
 
 (2) En caso de que se ofrezca asociarse o una cuenta premium
 
-*Conclusión*: Como puntos fuertes Yuzin ofrece las funcionalidades más destacadas de este tipo de webs: Consulta o creación de eventos, formularios de contacto, buscador y filtros y además incluye la posibilidad de asociarse y toda la información relevante a lo mismo. Como puntos débiles no tiene un diseño de contenido responsive y los eventos no están distribuidos por fechas (Semana o mes).
+*Conclusión*: Como puntos fuertes Yuzin ofrece las funcionalidades más destacadas de este tipo de webs: Consulta o creación de eventos, formularios de contacto, buscador y filtros y además incluye la posibilidad de asociarse y toda la información relevante a lo mismo y como distinción promociona las actividades en un formato revista digital también. Como puntos débiles no tiene un diseño de contenido responsive y los eventos no están distribuidos por fechas (Semana o mes).
 
 #### 1.1.b Personas
 
