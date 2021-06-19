@@ -104,6 +104,36 @@ Su fuente actual es Verdana:
 
 ## 1.4 Evaluación de Accesibilidad 
 
+Para finalizar con el análisis del diseño actual se realiza una evaluación de accesibilidad con el objetivo de conocer problemas y errores de la página actual para poder definir una conclusión completa y argumentada de la misma y sirva de ayuda en la parte de rediseño.
+
+### HEURISTICA
+
+##### 1.¿Tiene información de accesibilidad? 
+No posee información de accesibilidad.
+
+##### 2- ¿Tiene errores las pautas de WCAG?
+Mediante la herramienta online *WAVE* se obtienen lo siguiente:
+
+| <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Accesibilidad/wave.png" width="60%"/> 
+|------------------|
+
+Los 5 errores se deben a:
+- 3 ausencias de texto alternativo,
+- 1 etiqueta ausente.
+- 1 botón vacío.
+
+Los errores de contraste se deben al uso de un fondo blanco con texto naranja.
+
+##### 3-Legibilidad y comprensión del contenido y layout (omitiendo uso de JS y/o CSS)
+Omitiendo uso de JS y CSS mediante la herramienta *Web Developer Plugin* su visualización es correcta.
+
+##### 4-Comportamiento con ampliación de tamaño de letra:
+Si se amplía la letra se desestructura la pantalla de inicio.
+
+#### SIMULACION ACCESIBILIDAD
+
+Mediante la herramienta  Web Disability Simulator  se concluye que la web tiene un comportamiento óptimo en el ámbito de accesibilidad, destacando que en caso de  personas que padecen parkinson pueden tener problemas a la hora de seleccionar botones o enlaces por su tamaño. 
+
 ## 1.5 Conclusión
 
 ----- 
