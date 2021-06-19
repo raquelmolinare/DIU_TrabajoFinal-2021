@@ -171,11 +171,27 @@ En el apartado de club cultural añadiría filtros sobre los distintos temas de 
 
 #### 2.1.b Labelling
 
-#### 2.1.c Prototipo Lo-FI Wireframe
+| TÉRMINO | SIGNIFICADO |
+|---------|-------------|
+|Incio   |Página de inicio con información de la página y servicios principales.|
+|Usuario |Zona de usuario promotor.|
+|Revista |Área para descargar la revista digital de eventos culturales según la ciudad|
+|Agenda Cultural|Espacio para los eventos.|
+|Espacio Cultural|Espacio de lugares que ofrecen eventos culturales.|
+|Club cultural |Área para compartir opiniones y discursos culturales.|
+|Sobre Nosotros |Zona de información sobre Yuzin.|
+|Incio Sesion |Acceso de usuarios promotores.|
+|Subir evento |Acceder al área formulario para subir eventos.|
+|Mis eventos |Zona de control de eventos para promorores.|
+|Contacto |Página para formularios e información de contacto.|
+|FQAs|Zona de preguntas frecuentes. |
+|Soporte|Zona de ayuda y soporte de la web.|
+|Tarifas |Area de información sobre tarifas realzacionadas con asociarse.|
 
 ## 2.2 Mi UX-Case Study (diseño)
 
 #### 2.2.a Logotipo
+Se mantiene el mismo logotipo, se añade una versión en modo claro para las ocasiones en las que el fondo sea oscuro:
 
 #### 2.2.b Paleta de colores
 
