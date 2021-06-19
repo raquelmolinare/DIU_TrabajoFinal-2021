@@ -167,6 +167,8 @@ En el apartado de club cultural añadiría filtros sobre los distintos temas de 
 
 #### 2.1.a SiteMap
 
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/SiteMap.png" width="90%"/>
+
 #### 2.1.b Labelling
 
 #### 2.1.c Prototipo Lo-FI Wireframe
