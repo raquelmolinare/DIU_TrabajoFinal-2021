@@ -163,7 +163,11 @@ En el apartado de club cultural añadiría filtros sobre los distintos temas de 
 
 # PASO 2. Rediseño
 
+En este paso se va a llevar a cabo el rediseño de la actual página web de Yuzin según las conclusiones del paso anterior.
+
 ## 2.1 Estructura
+
+La estructura de la página web seguirá el siguiente flujo:
 
 #### 2.1.a SiteMap
 
