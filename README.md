@@ -233,7 +233,7 @@ Se modifica totalmente el diseño de la página de inicio de manera que se inclu
 
 ##### Agenda cultural
 
-Se mantiene los filtros ya que es un punto positivo en experiencia de usuario y se reorganiza la página de manera que se diferencian los eventos por fecha (Esta semana, mes...)
+Se mantienen los filtros ya que es un punto positivo en experiencia de usuario y se reorganiza la página de manera que se diferencian los eventos por fecha (Esta semana, mes...)
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/AgendaCultural.png" width="100%"/>
 
