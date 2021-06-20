@@ -1,9 +1,12 @@
 # DIU_TrabajoFinal-2021
+
+Autora: Raquel Molina Reche
+-----
+
 ## PARTE II: Caso de estudio. Web YUZIN
 (re)diseño de la web para una empresa de divulgación de eventos culturales partiendo de un diseño ya existente: Yuzin.
 
-Autora: Raquel Molina Reche
------ 
+-----
 
 # PASO 1. Análisis de diseño actual 
 
