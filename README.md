@@ -222,7 +222,7 @@ El diseño se ha programado mediante *Bootstrap* pudiendose probar el mockup de 
 Estas son las páginas que sufren los cambios concluidos:
 
 ##### Página de inicio
-Se modifica totalmente el diseño de la página de inicio de manera que se incluye mediante una carrusel las funcionalidades principales de la web y se añaden en esta página, a parte de opiones, eventos populares. (Se incluyen 3 capturas de pantalla)
+Se modifica totalmente el diseño de la página de inicio de manera que se incluye mediante una carrusel las funcionalidades principales de la web y se añaden en esta página, a parte de opiniones, eventos populares. (Se incluyen 3 capturas de pantalla equivalentes a las transiciones del carrusel)
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio1.png" width="100%"/>
 
@@ -241,7 +241,7 @@ Se mantiene los filtros ya que es un punto positivo en experiencia de usuario y 
 
 Se añade una galería de fotos y un mapa para conocer la localización exacta del evento.
 
-<img src="**https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/AgendaCultural.png**" width="100%"/>
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Evento.png" width="100%"/>
 
 
 ##### Club cultural
