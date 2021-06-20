@@ -217,13 +217,38 @@ Se mantiene la tipografía actual:
 #### 2.2.d Mockup
 El (re)diseño final sería el siguiente, en el que se mantiene la esencia de la página web pero se organiza mucho mejor su contenido y mejora la experiencia de usuario.
 
+El diseño se ha programado mediante *Bootstrap* pudiendose probar el mockup de la página a partir de los archivos de la carpeta **Mockup** en la parte de **Rediseño**.
+
+Estas son las páginas que sufren los cambios concluidos:
+
 ##### Página de inicio
-Se modifica totalmente el diseño de la página de inicio de manera que se incluye mediante una carrusel las funcionalidades principales de la web y se añaden en esta página a parte de opiones eventos populares.
+Se modifica totalmente el diseño de la página de inicio de manera que se incluye mediante una carrusel las funcionalidades principales de la web y se añaden en esta página, a parte de opiones, eventos populares. (Se incluyen 3 capturas de pantalla)
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio1.png" width="100%"/>
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio2.png" width="100%"/>
 
 <img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio3.png" width="100%"/>
+
+
+##### Agenda cultural
+
+Se mantiene los filtros ya que es un punto positivo en experiencia de usuario y se reorganiza la página de manera que se diferencian los eventos por fecha (Esta semana, mes...)
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/AgendaCultural.png" width="100%"/>
+
+##### Evento
+
+Se añade una galería de fotos y un mapa para conocer la localización exacta del evento.
+
+<img src="**https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/AgendaCultural.png**" width="100%"/>
+
+
+##### Club cultural
+
+Se añade esta página a la web ya que en la original se encontraba solo al incio. Se permite filtrar por tema, tipo o persona que redacta la opinión y se organizan por tema del contenido.
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/ClubCultural.png" width="100%"/>
+
 
 
