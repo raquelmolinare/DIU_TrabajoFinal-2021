@@ -216,3 +216,14 @@ Se mantiene la tipografía actual:
 
 #### 2.2.d Mockup
 El (re)diseño final sería el siguiente, en el que se mantiene la esencia de la página web pero se organiza mucho mejor su contenido y mejora la experiencia de usuario.
+
+##### Página de inicio
+Se modifica totalmente el diseño de la página de inicio de manera que se incluye mediante una carrusel las funcionalidades principales de la web y se añaden en esta página a parte de opiones eventos populares.
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio1.png" width="100%"/>
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio2.png" width="100%"/>
+
+<img src="https://github.com/rmr00/DIU_TrabajoFinal-2021/blob/main/Redise%C3%B1o/Resultado/Inicio3.png" width="100%"/>
+
+
